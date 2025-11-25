@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+vaderSentiment
+spacy
+jupyter
+ta-lib
+pynance
+plotly
+yfinance
